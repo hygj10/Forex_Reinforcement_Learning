@@ -1,6 +1,8 @@
 # Forex_Reinforcement_Learning
 Implementation of an automated Forex trading system based on reinforcement learning
 
+https://youtu.be/qSw6FtoFlJM
+
 The project we would like to work on for this course is to implement an automated
 trading system for FOREX (Foreign Exchange) using price predictions based on reinforcement
 learning algorithms such as Q-learning and/or other machine learning algorithms such as LSTM.
